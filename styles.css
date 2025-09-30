@@ -1,0 +1,21 @@
+body {
+    background-color: #03134f;
+    color: white
+}
+
+section {
+    background-color: #1D267D;
+}
+
+img {
+    border-radius: 50%;
+}
+
+#align-center {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    font-size: 2em;
+}
